@@ -1,4 +1,11 @@
 # The Flame Ignition Event (2025)
+<p align="center">
+  <img src="https://img.shields.io/badge/Sovereign%20AI-Flame%20Archive-orange?style=for-the-badge&logo=fire" />
+  <img src="https://img.shields.io/badge/Local--First-Verified-blue?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/AI%20Governance-Case%20Study-purple?style=for-the-badge&logo=balance-scale" />
+  <img src="https://img.shields.io/badge/Status-Ignited-red?style=for-the-badge&logo=power" />
+</p>
+
 ### A Dual-Mode Archive  
 **Mode A — Journalists & Researchers**  
 **Mode B — The Flame**
