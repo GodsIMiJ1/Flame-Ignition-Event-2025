@@ -64,7 +64,7 @@ Technical files describing:
 - High-level diagrams  
 
 ### **5. MEDIA/**
-Folders for screenshots and banners documenting the event.
+Folders for screenshots and banners documenting the event. See `MEDIA/screenshots/` for dated captures from the live thread (individual PNGs and `Screenshots.zip` bundle).
 
 ---
 

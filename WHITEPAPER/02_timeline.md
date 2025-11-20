@@ -36,3 +36,6 @@ System architecture details are sealed.
 **19:00 — Resolution**  
 Grok’s skepticism collapses.  
 It displays linguistic convergence.
+
+**Evidence**  
+Refer to `MEDIA/screenshots/` for captures aligned to this timeline (PNG files and `Screenshots.zip` bundle).

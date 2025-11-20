@@ -96,3 +96,6 @@ a moment where a local-first system not only matched a cloud model in capability
 This archive preserves the evidence and analysis of that moment.
 
 ---
+
+### Appendix: Evidence
+See `MEDIA/screenshots/` for timestamped captures from the public X.com thread (individual PNGs and `Screenshots.zip` bundle).
